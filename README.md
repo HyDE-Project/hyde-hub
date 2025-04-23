@@ -1,6 +1,6 @@
-# Wallbash Templates
+# HyDE-Hub
 
-This is a collection of wallbash templates for HyDE
+A collection of extra HyDE configurations.
 
 ## Usage
 
